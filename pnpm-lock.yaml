@@ -145,8 +145,8 @@ importers:
         specifier: ^19.5.0
         version: 19.8.0(@types/node@22.13.14)(commitizen@4.3.1(@types/node@22.13.14)(typescript@5.8.2))(inquirer@8.2.5)(typescript@5.8.2)
       '@rollup/plugin-node-resolve':
-        specifier: ^15.3.0
-        version: 15.3.1(rollup@4.37.0)
+        specifier: ^16.0.1
+        version: 16.0.1(rollup@4.37.0)
       '@size-limit/preset-big-lib':
         specifier: ^11.1.6
         version: 11.2.0(@swc/core@1.11.13(@swc/helpers@0.5.15))(esbuild@0.25.1)(size-limit@11.2.0)
@@ -1898,8 +1898,8 @@ packages:
     engines: {node: '>=18'}
     hasBin: true
 
-  '@rollup/plugin-node-resolve@15.3.1':
-    resolution: {integrity: sha512-tgg6b91pAybXHJQMAAwW9VuWBO6Thi+q7BCNARLwSqlmsHz0XYURtGvh/AuwSADXSI4h/2uHbs7s4FzlZDGSGA==}
+  '@rollup/plugin-node-resolve@16.0.1':
+    resolution: {integrity: sha512-tk5YCxJWIG81umIvNkSod2qK5KyQW19qcBF/B78n1bjtOON6gzKoVeSzAE8yHCZEDmqkHKkxplExA8KzdJLJpA==}
     engines: {node: '>=14.0.0'}
     peerDependencies:
       rollup: ^2.78.0||^3.0.0||^4.0.0
@@ -11349,7 +11349,7 @@ snapshots:
       - bare-buffer
       - supports-color
 
-  '@rollup/plugin-node-resolve@15.3.1(rollup@4.37.0)':
+  '@rollup/plugin-node-resolve@16.0.1(rollup@4.37.0)':
     dependencies:
       '@rollup/pluginutils': 5.1.4(rollup@4.37.0)
       '@types/resolve': 1.20.2
