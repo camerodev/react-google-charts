@@ -160,8 +160,8 @@ importers:
         specifier: ^8.4.4
         version: 8.6.10(@types/react@18.3.20)(storybook@8.6.10(prettier@3.5.3))
       '@storybook/addon-webpack5-compiler-babel':
-        specifier: ^3.0.3
-        version: 3.0.5(webpack@5.98.0(@swc/core@1.11.13(@swc/helpers@0.5.15))(esbuild@0.25.1))
+        specifier: ^3.0.6
+        version: 3.0.6(webpack@5.98.0(@swc/core@1.11.13(@swc/helpers@0.5.15))(esbuild@0.25.1))
       '@storybook/manager-api':
         specifier: ^8.4.4
         version: 8.6.10(storybook@8.6.10(prettier@3.5.3))
@@ -2101,8 +2101,8 @@ packages:
     peerDependencies:
       storybook: ^8.6.10
 
-  '@storybook/addon-webpack5-compiler-babel@3.0.5':
-    resolution: {integrity: sha512-9dlc5PrehEFUHqkgj8x+aKtOY9XH9Zk6WBbtpgY/JCQ7waJ2VvhyDnrgJeXfek+WYlSkJElnta6SlqP+XRG0PQ==}
+  '@storybook/addon-webpack5-compiler-babel@3.0.6':
+    resolution: {integrity: sha512-J4uVxEfkd2iAxPxcT90iebt5wuLSd0EYuMJa94t1jVUGlvZZAvnmqXAqscRITNU37nOr0c9yZ2YVS/sFOZyOVw==}
     engines: {node: '>=18'}
 
   '@storybook/blocks@8.6.10':
@@ -11575,7 +11575,7 @@ snapshots:
     transitivePeerDependencies:
       - '@types/react'
 
-  '@storybook/addon-webpack5-compiler-babel@3.0.5(webpack@5.98.0(@swc/core@1.11.13(@swc/helpers@0.5.15))(esbuild@0.25.1))':
+  '@storybook/addon-webpack5-compiler-babel@3.0.6(webpack@5.98.0(@swc/core@1.11.13(@swc/helpers@0.5.15))(esbuild@0.25.1))':
     dependencies:
       '@babel/core': 7.26.10
       babel-loader: 9.2.1(@babel/core@7.26.10)(webpack@5.98.0(@swc/core@1.11.13(@swc/helpers@0.5.15))(esbuild@0.25.1))
