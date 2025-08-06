@@ -53,7 +53,7 @@
     "@size-limit/preset-big-lib": "^11.1.6",
     "@storybook/addon-actions": "^8.4.4",
     "@storybook/addon-controls": "^8.4.4",
-    "@storybook/addon-docs": "^8.4.4",
+    "@storybook/addon-docs": "^9.1.1",
     "@storybook/addon-webpack5-compiler-babel": "^3.0.3",
     "@swc/core": "^1.9.1",
     "@storybook/manager-api": "^8.4.4",
