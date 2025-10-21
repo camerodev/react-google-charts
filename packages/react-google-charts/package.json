@@ -86,7 +86,7 @@
     "size-limit": "^11.1.6",
     "standard-version": "^9.5.0",
     "typescript": "^5.6.3",
-    "storybook": "^8.4.4",
+    "storybook": "^9.1.13",
     "webpack": "^5.95.0"
   },
   "author": {
